@@ -507,7 +507,7 @@ The ANN provides a deep-learning-based approach alongside the traditional Machin
 ```text
 AI-Powered-Customer-Churn-Risk-Analytics-Platform/
 │
-├── 📓 Bank_Customer_Churn_Prediction.ipynb
+├── 📓 AI-Powered Customer Churn Risk Analytics Platform.ipynb
 │
 ├── 📄 README.md
 │
